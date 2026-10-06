@@ -1,7 +1,7 @@
 ## 👨‍💻 Mateus Rosa
 **`Estudante Técnico`**
 
-Me chamo Mateus Rosa, tenho 16 anos e sou um estudante do 1° ano do Ensino Técnico em Informativa
+Me chamo Mateus Rosa, tenho 16 anos e sou um estudante do 1° ano do Ensino Técnico em Informativa.
 
 ---
 
